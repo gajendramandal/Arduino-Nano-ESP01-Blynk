@@ -133,7 +133,7 @@ Follow these steps to run the project successfully on your system:
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/gajendramandal/Arduino-Nano-ESP01-Blynk.git
 ```
 
 Or download the ZIP file and extract it.
