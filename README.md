@@ -248,7 +248,7 @@ Copy the `Auth Token` to your code.
 ```
 Template → Datastreams → + New Datastream
 Type      → Virtual Pin
-Pin       → V0
+Pin       → V7
 Data Type → Integer
 Min       → 0
 Max       → 1
@@ -257,7 +257,7 @@ Max       → 1
 ### Step 6 — Add a Button Widget
 ```
 Dashboard → Edit → + Widget → Button
-Pin  → V0
+Pin  → V7
 Mode → Switch
 ```
 
